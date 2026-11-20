@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/stream/jamendo", "destination": "https://prod-1.storage.jamendo.com/" },
+    { "source": "/stream/jamendo/", "destination": "https://prod-1.storage.jamendo.com/" }
+  ]
+}
